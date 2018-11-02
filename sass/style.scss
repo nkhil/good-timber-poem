@@ -35,9 +35,15 @@ html, body {
   }
 }
 
+#toggleaudio {
+  align-self: center;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
 .unmute {
-  background-image: url('/img/unmute.png');
-  background-color: red;
+  // background-image: url('/img/unmute.png');
+  // background-color: red;
 }
 
 .icon {
